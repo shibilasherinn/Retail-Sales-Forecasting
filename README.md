@@ -20,19 +20,19 @@ An end-to-end time series forecasting project that predicts weekly retail sales 
 ## Key Visualizations
 
 **Total Daily Sales Trend**
-![Total Daily Sales](total_daily_sales.png)
+![Total Daily Sales](Total%20daily%20sales.png)
 
 **Monthly Sales Trend by Store**
-![Monthly Sales by Store](monthly_sales_by_store.png)
+![Monthly Sales by Store](Monthly%20sales%20by%20store.png)
 
 **Sales Distribution by Day of Week**
-![Weekday Boxplot](weekday_boxplot.png)
+![Weekday Boxplot](Weekday%20boxplot.png)
 
 **Average Sales by Month (Seasonality Check)**
-![Monthly Seasonality](monthly_seasonality.png)
+![Monthly Seasonality](Monthly%20seasonality.png)
 
 **Forecast vs Actual (Linear Regression)**
-![Forecast vs Actual](forecast_vs_actual.png)
+![Forecast vs Actual](Forecast%20vs%20actual.png)
 
 > Note: the sharp dip in the final data point of the forecast chart reflects a partial week at the end of the dataset (2024-12-31 cutoff), not an actual sales crash.
 
@@ -61,11 +61,11 @@ Stock up and staff up ahead of the June-July peak season and around weekends. Us
 ```
 ├── sales_forecasting.ipynb        # Main analysis notebook
 ├── retail_sales_synthetic.csv     # Synthetic dataset
-├── total_daily_sales.png          # Chart exports used in this README
-├── monthly_sales_by_store.png
-├── weekday_boxplot.png
-├── monthly_seasonality.png
-├── forecast_vs_actual.png
+├── Total daily sales.png          # Chart exports used in this README
+├── Monthly sales by store.png
+├── Weekday boxplot.png
+├── Monthly seasonality.png
+├── Forecast vs actual.png
 └── README.md
 ```
 
